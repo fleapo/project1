@@ -210,3 +210,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+
+#Could not open 'C:/[project path].VC.opendb': The process cannot access the file because it is being used by another process.
+*.VC.opendb
+*.VC.db
