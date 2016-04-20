@@ -18,12 +18,21 @@
     <ClInclude Include="myop.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="cfg_op.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="myop.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cfg_op.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_interface.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

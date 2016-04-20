@@ -113,10 +113,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="cfg_op.h" />
     <ClInclude Include="myop.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="cfg_op.c" />
     <ClCompile Include="myop.c" />
+    <ClCompile Include="test_interface.c" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
